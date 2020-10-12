@@ -1,0 +1,19 @@
+<!-- use default fontawesome class 'fas' or use a specified one like 'fab' for brands -->
+{{ $faStylePrefix := "fas" }}
+{{ if in (slice "fas" "far" "fal" "fad" "fab") (.Get 0) }}
+  {{ $faStylePrefix = (.Get 0) }}
+{{ end }}
+
+
+<a href="{{delimit (last 1 .Params) ""}}" style="color:black;">
+<i class="{{ $faStylePrefix }} {{ range $iconName := .Params }} {{with not (or (hasPrefix $iconName "http") (hasPrefix $iconName "mailto")) }} fa-{{ $iconName }} {{ end }} {{ end }}">
+  <!-- Load font awesome only once per page, load it inside the <i> element
+    so it does not disturb the text flow (like removing spaces) -->
+  {{ if not (.Page.Scratch.Get "fontawesomeLoaded") }}
+    {{ .Page.Scratch.Set "fontawesomeLoaded" true }}
+
+    <link href="/fontawesome/css/all.min.css" rel="stylesheet">
+  {{ end }}
+</i>
+</a>
+
