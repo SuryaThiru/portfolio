@@ -1,5 +1,5 @@
 title = "Surya Krishnamurthy"
-baseURL = "SuryaThiru.github.io/"
+baseURL = "https://suryathiru.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
 enableEmoji = true
