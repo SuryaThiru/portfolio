@@ -16,13 +16,13 @@ I am currently working as a data scientist at iQGateway where we work on a varie
 ## Technical Strengths
 
 * **Computer Languages**
-    * Python, R, C++, Java, JavaScript
+    * Python, R, C++, Julia
 * **Software & Tools**
     * PyTorch, Tensorflow, SQL/NoSQL, Spark, Docker, Linux
 
 ## Publications
 
-1. S. Krishnamurthy et al., “Machine Learning Prediction Models for Chronic Kidney Disease using National Health Insurance Claim Data in Taiwan,” medRxiv, Jun. 2020, doi: 10.1101/2020.06.25.20139147.  [[paper](https://www.medrxiv.org/content/10.1101/2020.06.25.20139147v1)]
+1. Krishnamurthy, Surya, Kapeleshh KS, Erik Dovgan, Mitja Luštrek, Barbara Gradišek Piletič, Kathiravan Srinivasan, Yu-Chuan Li, Anton Gradišek, and Shabbir Syed-Abdul. 2021. "Machine Learning Prediction Models for Chronic Kidney Disease Using National Health Insurance Claim Data in Taiwan" Healthcare 9, no. 5: 546. https://doi.org/10.3390/healthcare9050546  [[paper](https://www.mdpi.com/2227-9032/9/5/546)]
 2. K. Surya, E. Gayakwad, and M. K. Nallakaruppan, “Deep learning for short answer scoring,” Int. J. Recent Technol. Eng., vol. 7, no. 6, pp. 1712–1715, 2019.  [[paper](https://www.ijrte.org/wp-content/uploads/papers/v7i6/F2253037619.pdf)]
 
 ## Experience
@@ -34,7 +34,7 @@ iQGateway, Bangalore, June 2018 - Current
 Taipei Medical University, Taiwan, May 2019 - June 2019
 
 **AI Intern** \
-Sckript, Chennai, June 2018
+Skcript, Chennai, June 2018
 
 ## Organizations
 
@@ -61,7 +61,7 @@ Google Developer Groups, VIT, February 2017 - May 2019
 
 #### Programming libraries
 
-* [mlgauge](https://github.com/SuryaThiru/mlgauge) - ML benchmarking library based on [pmlb](https://github.com/EpistasisLab/pmlb)
+* [mlgauge](https://github.com/SuryaThiru/mlgauge) - ML benchmarking library based on [pmlb](https://github.com/EpistasisLab/pmlb) and openml. Available in [pip](https://pypi.org/project/mlgauge/).
 
 #### Some favorite projects of mine
 
@@ -85,7 +85,7 @@ Some of my minor open source contributions:
 
 ## Hobbies
 
-I love story driven games (❤️ Witcher 3), music, TV series and a few stress busting sitcoms. A fan of Critical Role.
+I love story driven games (❤️ Witcher 3), music, TV series and a few stress busting sitcoms. A beginning guitarist 🎸. A fan of Critical Role.
 
 ## Connect
 
@@ -93,5 +93,5 @@ I love story driven games (❤️ Witcher 3), music, TV series and a few stress 
 {{< fa fab linkedin 2x "https://www.linkedin.com/in/surya-krishnamurthy" >}}
 {{< fa fab medium 2x "https://medium.com/@surya.thiru001" >}}
 {{< fa fab orcid 2x "https://orcid.org/0000-0002-6876-570X" >}}
+{{< fa fab researchgate 2x "https://www.researchgate.net/profile/Surya-Krishnamurthy" >}}
 {{< fa fas envelope 2x "mailto:surya.thiru001@gmail.com" >}}
-
