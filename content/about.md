@@ -7,7 +7,7 @@ title = "About"
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
 
-I am currently working as a data scientist at iQGateway where we work on a variety of machine learning challenges. I am a knowledge-hungry engineer who is constantly looking for opportunities and real-world challenges to learn and improve my skills. I work on all things machine learning, exploring the domain to find my niche.
+I am currently working as a data scientist at iQGateway where we work on a variety of machine learning challenges. I am a knowledge-hungry engineer who is constantly looking for opportunities and real-world challenges to solve, learn and improve my skills. I work on all things machine learning, exploring the domain to find my niche. I love open-source and engange whenever I get the time and chance.
 
 ## Education
 
@@ -59,7 +59,11 @@ Google Developer Groups, VIT, February 2017 - May 2019
 
 ## Projects
 
-Some of my favorites projects:
+#### Programming libraries
+
+* [mlgauge](https://github.com/SuryaThiru/mlgauge) - ML benchmarking library based on [pmlb](https://github.com/EpistasisLab/pmlb)
+
+#### Some favorite projects of mine
 
 * [vityBot](https://github.com/GDGVIT/vityBot) – A personal assistant for students in VIT university based on NLP to improve productivity
 * [NST](https://github.com/SuryaThiru/Neural-style-transfer) - Neural Style Transfer implementation in keras
@@ -69,6 +73,19 @@ Some of my favorites projects:
 * [IDS](https://github.com/SuryaThiru/Intrusion-detection-system) - Intrusion Detection System based on Machine Learning
 * [WiFi Rover](https://github.com/SuryaThiru/ISC-bot) – Robot to traverse rugged terrains controlled with gamepad
 * [Pneumonia detection](https://github.com/SuryaThiru/Pneumonia-detection) through image enhancement and feature extraction
+
+## Open source
+
+Some of my minor open source contributions:
+
+* [feature_engine](https://github.com/solegalli/feature_engine/)
+* [pyeasyga](https://github.com/remiomosowon/pyeasyga)
+* [ppscore](https://github.com/8080labs/ppscore)
+* [snape](https://github.com/mbernico/snape)
+
+## Hobbies
+
+I love story driven games (❤️ Witcher 3), music, TV series and a few stress busting sitcoms. A fan of Critical Role.
 
 ## Connect
 
