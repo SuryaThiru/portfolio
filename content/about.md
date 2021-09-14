@@ -22,8 +22,18 @@ I am currently working as a data scientist at iQGateway where we work on a varie
 
 ## Publications
 
-1. Krishnamurthy, Surya, Kapeleshh KS, Erik Dovgan, Mitja Luštrek, Barbara Gradišek Piletič, Kathiravan Srinivasan, Yu-Chuan Li, Anton Gradišek, and Shabbir Syed-Abdul. 2021. "Machine Learning Prediction Models for Chronic Kidney Disease Using National Health Insurance Claim Data in Taiwan" Healthcare 9, no. 5: 546. https://doi.org/10.3390/healthcare9050546  [[paper](https://www.mdpi.com/2227-9032/9/5/546)]
-2. K. Surya, E. Gayakwad, and M. K. Nallakaruppan, “Deep learning for short answer scoring,” Int. J. Recent Technol. Eng., vol. 7, no. 6, pp. 1712–1715, 2019.  [[paper](https://www.ijrte.org/wp-content/uploads/papers/v7i6/F2253037619.pdf)]
+**Evaluating Deep Neural Network Architectures with Transfer Learning for Pneumonitis Diagnosis** \
+Surya Krishnamurthy, Kathiravan Srinivasan, Saeed Mian Qaisar, P. M. Durai Raj Vincent, Chuan-Yu Chang \
+Computational and Mathematical Methods in Medicine, vol. 2021, Article ID 8036304, 12 pages, 2021.  [[paper](https://www.hindawi.com/journals/cmmm/2021/8036304/)]
+
+**Machine Learning Prediction Models for Chronic Kidney Disease Using National Health Insurance Claim Data in Taiwan** \
+Surya Krishnamurthy, Kapeleshh KS, Erik Dovgan, Mitja Luštrek, Barbara Gradišek Piletič, Kathiravan Srinivasan, Yu-Chuan Li, Anton Gradišek, and Shabbir Syed-Abdul \
+Healthcare 9, no. 5: 546, 2021.  [[paper](https://www.mdpi.com/2227-9032/9/5/546)]
+
+**Deep learning for short answer scoring** \
+K. Surya, E. Gayakwad, and M. K. Nallakaruppan \
+Int. J. Recent Technol. Eng., vol. 7, no. 6, pp. 1712–1715, 2019.  [[paper](https://www.ijrte.org/wp-content/uploads/papers/v7i6/F2253037619.pdf)]
+
 
 ## Experience
 
@@ -85,7 +95,7 @@ Some of my minor open source contributions:
 
 ## Hobbies
 
-I love story driven games (❤️ Witcher 3), music, TV series and a few stress busting sitcoms. A beginning guitarist 🎸. A fan of Critical Role.
+I love story driven games (❤️ Witcher 3), music, TV series and a few stress busting sitcoms. A beginning guitarist 🎸. A fan of Critical Role 🎲.
 
 ## Connect
 
