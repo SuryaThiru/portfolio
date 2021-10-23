@@ -22,6 +22,10 @@ I am currently working as a data scientist at iQGateway where we work on a varie
 
 ## Publications
 
+**Using Artificial Intelligence-based models to predict the risk of Mucormycosis among COVID-19 Survivors: An Experience from India** \
+Shabbir Syed-Abdul, A. Shoban Babu, Raja Shekhar Bellamkonda, Ramaiah Itumalla, GVRK Acharyulu, Surya Krishnamurthy, Y. Venkat Santosh Ramana, Naresh Mogilicharla, Shwetambara Malwade, Yu-Chuan (Jack) Li \
+medRxiv, 2021.  [[preprint](https://www.medrxiv.org/content/10.1101/2021.09.13.21263511)]
+
 **Evaluating Deep Neural Network Architectures with Transfer Learning for Pneumonitis Diagnosis** \
 Surya Krishnamurthy, Kathiravan Srinivasan, Saeed Mian Qaisar, P. M. Durai Raj Vincent, Chuan-Yu Chang \
 Computational and Mathematical Methods in Medicine, vol. 2021, Article ID 8036304, 12 pages, 2021.  [[paper](https://www.hindawi.com/journals/cmmm/2021/8036304/)]
@@ -71,7 +75,7 @@ Google Developer Groups, VIT, February 2017 - May 2019
 
 #### Programming libraries
 
-* [mlgauge](https://github.com/SuryaThiru/mlgauge) - ML benchmarking library based on [pmlb](https://github.com/EpistasisLab/pmlb) and openml. Available in [pip](https://pypi.org/project/mlgauge/).
+* [mlgauge](https://github.com/SuryaThiru/mlgauge) - ML benchmarking library based on [pmlb](https://github.com/EpistasisLab/pmlb) and openml. Available on [pip](https://pypi.org/project/mlgauge/).
 
 #### Some favorite projects of mine
 
@@ -95,7 +99,7 @@ Some of my minor open source contributions:
 
 ## Hobbies
 
-I love story driven games (❤️ Witcher 3), music, TV series and a few stress busting sitcoms. A beginning guitarist 🎸. A fan of Critical Role 🎲.
+I love story driven games (❤️ Witcher 3), music, and a few stress busting sitcoms. A beginning guitarist 🎸. A fan of Critical Role 🎲.
 
 ## Connect
 
