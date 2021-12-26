@@ -22,9 +22,9 @@ I am currently working as a data scientist at iQGateway where we work on a varie
 
 ## Publications
 
-**Using Artificial Intelligence-based models to predict the risk of Mucormycosis among COVID-19 Survivors: An Experience from India** \
-Shabbir Syed-Abdul, A. Shoban Babu, Raja Shekhar Bellamkonda, Ramaiah Itumalla, GVRK Acharyulu, Surya Krishnamurthy, Y. Venkat Santosh Ramana, Naresh Mogilicharla, Shwetambara Malwade, Yu-Chuan (Jack) Li \
-medRxiv, 2021.  [[preprint](https://www.medrxiv.org/content/10.1101/2021.09.13.21263511)]
+**Using Artificial Intelligence-based models to predict the risk of Mucormycosis among COVID-19 Survivors: An Experience from a public hospital in India.** \
+Syed-Abdul, Shabbir, A.Shoban Babu, Raja Shekhar Bellamkonda, Ramaiah Itumalla, GVRK Acharyulu, Surya Krishnamurthy, Y. Venkat Santosh Ramana, Naresh Mogilicharla, Shwetambara Malwade, and Yu-Chuan (Jack) Li \
+Journal of Infection, 2021.  [[paper](https://www.journalofinfection.com/article/S0163-4453(21)00639-3/fulltext)]
 
 **Evaluating Deep Neural Network Architectures with Transfer Learning for Pneumonitis Diagnosis** \
 Surya Krishnamurthy, Kathiravan Srinivasan, Saeed Mian Qaisar, P. M. Durai Raj Vincent, Chuan-Yu Chang \

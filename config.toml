@@ -27,8 +27,10 @@ math = false  # enable KaTeX (https://katex.org/) globally
     weight = 2
   [[menu.main]]
     name = "CV"
-    url = "/resume.pdf"
+    url = "/cv"
     weight = 3
 
-[markup.goldmark.renderer]
-  unsafe = true  # allow raw HTML in markdown files
+[markup]
+  defaultMarkdownHandler = 'blackFriday'
+    [markup.blackFriday]
+      hrefTargetBlank = true
