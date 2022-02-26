@@ -75,7 +75,7 @@ Google Developer Groups, VIT, February 2017 - May 2019
 
 #### Programming libraries
 
-* [mlgauge](https://github.com/SuryaThiru/mlgauge) - ML benchmarking library based on [pmlb](https://github.com/EpistasisLab/pmlb) and openml. Available on [pip](https://pypi.org/project/mlgauge/).
+* [mlgauge](https://github.com/SuryaThiru/mlgauge) - ML benchmarking library based on [pmlb](https://github.com/EpistasisLab/pmlb) and openml. Available on [pypi](https://pypi.org/project/mlgauge/).
 
 #### Some favorite projects of mine
 
