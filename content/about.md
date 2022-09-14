@@ -7,11 +7,15 @@ title = "About"
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
 
-I am currently working as a data scientist at iQGateway where we work on a variety of machine learning challenges. I am a knowledge-hungry engineer who is constantly looking for opportunities and real-world challenges to solve, learn and improve my skills. I work on all things machine learning, exploring the domain to find my niche. I love open-source and engange whenever I get the time and chance.
+I'm a graduate computer science student at Northeastern University, Boston. I was working as a data scientist at iQGateway where we worked on a variety of machine learning challenges. I am a knowledge-hungry engineer who is constantly looking for opportunities and real-world challenges to solve, learn and improve my skills. I work on all things machine learning, exploring the domain to find my niche. I love open-source and engange whenever I get the time.
 
 ## Education
 
-* B.Tech Information Technology, Vellore Institute of Technology, Vellore  (June 2016 - May 2020)
+**MS in Computer Science, Northeastern University** \
+Boston, Sep 2022 - May 2024
+
+**B.Tech Information Technology, Vellore Institute of Technology** \
+Vellore, June 2016 - May 2020
 
 ## Technical Strengths
 
@@ -41,8 +45,8 @@ Int. J. Recent Technol. Eng., vol. 7, no. 6, pp. 1712–1715, 2019.  [[paper](ht
 
 ## Experience
 
-**Data Scientist** \
-iQGateway, Bangalore, June 2018 - Current
+**Associate Data Scientist** \
+iQGateway, Bangalore, June 2018 - July 2022
 
 **Research Intern** \
 Taipei Medical University, Taiwan, May 2019 - June 2019
@@ -62,14 +66,6 @@ Google Developer Groups, VIT, February 2017 - May 2019
 * Winner of Juspay HyperHack IITM Shaastra, 2018
 * Winner of CodeSpace hackathon VIT, 2018
 * Finalists in Global Conference on Advances in Science, Technology and Management (GCASTM) VIT, 2017
-
-## Certifications
-
-* [Udacity Machine Learning Advanced Nanodegree](https://confirm.udacity.com/UWD2SEA7)
-* [NPTEL Data Science for Engineers (Top 1%)](https://drive.google.com/file/d/1KcKuhs0u4pzx1DUvso2M1E-wuF1xhvP-/view)
-* [Coursera - Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/Y3VSJVYQF9U4)
-* [Coursera - Machine Learning](https://www.coursera.org/account/accomplishments/verify/7VWHPQFRVAZJ)
-* [Microsoft Technology Associate for Introduction to Programming Using Python](https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=395&cvid=VR13klT+u7p5/GVjPh83RQ==)
 
 ## Projects
 
@@ -96,6 +92,14 @@ Some of my minor open source contributions:
 * [pyeasyga](https://github.com/remiomosowon/pyeasyga)
 * [ppscore](https://github.com/8080labs/ppscore)
 * [snape](https://github.com/mbernico/snape)
+
+## Certifications
+
+* [Udacity Machine Learning Advanced Nanodegree](https://confirm.udacity.com/UWD2SEA7)
+* [NPTEL Data Science for Engineers (Top 1%)](https://drive.google.com/file/d/1KcKuhs0u4pzx1DUvso2M1E-wuF1xhvP-/view)
+* [Coursera - Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/Y3VSJVYQF9U4)
+* [Coursera - Machine Learning](https://www.coursera.org/account/accomplishments/verify/7VWHPQFRVAZJ)
+* [Microsoft Technology Associate for Introduction to Programming Using Python](https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=395&cvid=VR13klT+u7p5/GVjPh83RQ==)
 
 ## Hobbies
 

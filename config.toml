@@ -30,7 +30,5 @@ math = false  # enable KaTeX (https://katex.org/) globally
     url = "/cv"
     weight = 3
 
-[markup]
-  defaultMarkdownHandler = 'blackFriday'
-    [markup.blackFriday]
-      hrefTargetBlank = true
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
