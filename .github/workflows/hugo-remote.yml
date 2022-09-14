@@ -1,0 +1,28 @@
+name: hugo-remote
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  REMOTE: SuryaThiru/SuryaThiru.github.io.git
+  DEST: public
+  TOKEN: ${{ secrets.TOKEN }}
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎 Check out master
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+          # if your chosen Hugo theme is a submodule
+          submodules: true
+      - name: 🚀 Build and deploy
+        env:
+          HUGO_ARGS: '--minify --cleanDestinationDir'
+        uses: victoriadrake/hugo-remote@master
