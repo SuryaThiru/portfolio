@@ -35,7 +35,7 @@ Assisting Dr. Shawn Bhimani in the supply chain datahub project
 **iQGateway**, Bangalore, June 2018 - July 2022
 
 Lead the development of our AutoML application and worked on research-oriented projects for clients from various domains
-ulia
+
 ### Research Intern
 **Taipei Medical University**, Taiwan, May 2019 - June 2019
 
