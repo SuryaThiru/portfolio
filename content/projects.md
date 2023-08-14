@@ -8,10 +8,6 @@ title = "Projects"
 Syed-Abdul, Shabbir, A.Shoban Babu, Raja Shekhar Bellamkonda, Ramaiah Itumalla, GVRK Acharyulu, Surya Krishnamurthy, Y. Venkat Santosh Ramana, Naresh Mogilicharla, Shwetambara Malwade, and Yu-Chuan (Jack) Li \
 Journal of Infection, 2021.  [[paper](https://www.journalofinfection.com/article/S0163-4453(21)00639-3/fulltext)]
 
-**Evaluating Deep Neural Network Architectures with Transfer Learning for Pneumonitis Diagnosis** \
-Surya Krishnamurthy, Kathiravan Srinivasan, Saeed Mian Qaisar, P. M. Durai Raj Vincent, Chuan-Yu Chang \
-Computational and Mathematical Methods in Medicine, vol. 2021, Article ID 8036304, 12 pages, 2021.  [[paper](https://www.hindawi.com/journals/cmmm/2021/8036304/)]
-
 **Machine Learning Prediction Models for Chronic Kidney Disease Using National Health Insurance Claim Data in Taiwan** \
 Surya Krishnamurthy, Kapeleshh KS, Erik Dovgan, Mitja Luštrek, Barbara Gradišek Piletič, Kathiravan Srinivasan, Yu-Chuan Li, Anton Gradišek, and Shabbir Syed-Abdul \
 Healthcare 9, no. 5: 546, 2021.  [[paper](https://www.mdpi.com/2227-9032/9/5/546)]
@@ -28,6 +24,7 @@ Int. J. Recent Technol. Eng., vol. 7, no. 6, pp. 1712–1715, 2019.  [[paper](ht
 
 #### Some favorite projects of mine
 
+* [ProtoIE](https://github.com/SuryaThiru/vdu_experiments) - Few-shot learning for information extraction in visual documents with prototypical networks
 * [vityBot](https://github.com/GDGVIT/vityBot) – A personal assistant for students in VIT university based on NLP to improve productivity
 * [NST](https://github.com/SuryaThiru/Neural-style-transfer) - Neural Style Transfer implementation in keras
 * [unSting](https://github.com/samyak-jain/angelhack) – disaster recovery and management platform based on autonomous drones powered by computer vision and RTC

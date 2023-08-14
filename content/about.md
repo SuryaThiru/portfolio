@@ -20,21 +20,26 @@ Vellore, June 2016 - May 2020
 ## Technical Strengths
 
 * **Computer Languages**
-    * Python, R, C++, JavaScript
+    * Python, R, C++, JavaScript, SQL
 * **Software & Tools**
-    * PyTorch, Tensorflow, SQL/NoSQL, Spark, Docker, Linux
+    * PyTorch, Tensorflow, SQL/NoSQL, Spark, Docker, Linux, Huggingface, LangChain
 
 ## Experience
 
 ### Graduate Research Assistant
-**Northeastern University**, Boston, October 2022 - Current
+**Northeastern University**, Boston, December 2022 - Current
 
-Assisting Dr. Shawn Bhimani in the supply chain datahub project
+Assisting Dr. Shawn Bhimani in the supply chain datahub project with identifying forced labour in supply chain data
+
+### Data Science Intern
+**Fidelity Investments (FCAT)**, Boston, June 2023 - August 2023
+
+Enhanced the accuracy of langchain pipelines for LLMs on document question answering by 7%
 
 ### Associate Data Scientist
 **iQGateway**, Bangalore, June 2018 - July 2022
 
-Lead the development of our AutoML application and worked on research-oriented projects for clients from various domains
+Lead the development of our AutoML application and worked on various research-oriented datascience projects for clients from various domains
 
 ### Research Intern
 **Taipei Medical University**, Taiwan, May 2019 - June 2019
