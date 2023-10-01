@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - gh-action
 
 env:
   REMOTE: SuryaThiru/SuryaThiru.github.io.git
@@ -25,4 +26,4 @@ jobs:
       - name: 🚀 Build and deploy
         env:
           HUGO_ARGS: '--minify --cleanDestinationDir'
-        uses: victoriadrake/hugo-remote@master
+        uses: PepoBJ/hugo-remote@master
