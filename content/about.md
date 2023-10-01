@@ -7,7 +7,7 @@ title = "About"
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
 
-I'm a graduate computer science student at Northeastern University, Boston. I was working as a data scientist at iQGateway where we worked on a variety of machine learning challenges. I am a knowledge-hungry engineer who is constantly looking for opportunities and real-world challenges to solve, learn and improve my skills. I work on all things machine learning, exploring the domain to find my niche. I love open-source and engange whenever I get the time.
+I'm a graduate computer science student at Northeastern University, Boston. I was working as a data scientist at iQGateway where we worked on a variety of machine learning challenges. I am a knowledge-hungry engineer who is constantly looking for opportunities and real-world challenges to solve, learn and improve my skills. I work on all things machine learning, exploring the domain to find my niche.
 
 ## Education
 

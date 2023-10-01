@@ -18,24 +18,46 @@ Int. J. Recent Technol. Eng., vol. 7, no. 6, pp. 1712–1715, 2019.  [[paper](ht
 
 ## Projects
 
-#### Programming libraries
+### Programming Libraries
 
-* [mlgauge](https://github.com/SuryaThiru/mlgauge) - ML benchmarking library based on [pmlb](https://github.com/EpistasisLab/pmlb) and openml. Available on [pypi](https://pypi.org/project/mlgauge/).
+#### MLGauge
+{{<project-desc image_url="https://github.com/SuryaThiru/mlgauge/raw/main/docs/logo/logo.png"
+github="https://github.com/SuryaThiru/mlgauge"
+desc="ML benchmarking library based on [PMLB](https://github.com/EpistasisLab/pmlb) and openml. Available on [pypi](https://pypi.org/project/mlgauge/).">}}
 
-#### Some favorite projects of mine
+### Some Favorite Projects
 
-* [ProtoIE](https://github.com/SuryaThiru/ProtoIE) - Few-shot learning for information extraction in visual documents with prototypical networks
-* [vityBot](https://github.com/GDGVIT/vityBot) – A personal assistant for students in VIT university based on NLP to improve productivity
-* [NST](https://github.com/SuryaThiru/Neural-style-transfer) - Neural Style Transfer implementation in keras
-* [unSting](https://github.com/samyak-jain/angelhack) – disaster recovery and management platform based on autonomous drones powered by computer vision and RTC
-* [MediKit](https://github.com/apuayush/sm_medikit) – Improved data-centric healthcare system powered by IoT and ML
-* [Subconn](https://github.com/SuryaThiru/subconn) - An application to track subsidized product transactions using distributed ledgers, hence improving efficiency and transparency in the distribution of goods and services through various Govt. schemes.
-* [FaceRec](https://github.com/SuryaThiru/IoT-faceRec-security-system) - Face recognition security system powered by IoT and ML
-* [IDS](https://github.com/SuryaThiru/Intrusion-detection-system) - Intrusion Detection System based on Machine Learning
-* [WiFi Rover](https://github.com/SuryaThiru/ISC-bot) – Robot to traverse rugged terrains controlled with gamepad
-* [Pneumonia detection](https://github.com/SuryaThiru/Pneumonia-detection) through image enhancement and feature extraction
+#### ProtoIE
+{{<project-desc image_url="https://raw.githubusercontent.com/oscarknagg/few-shot/master/assets/proto_nets_diagram.png" github="https://github.com/SuryaThiru/ProtoIE" desc="Few-shot learning for information extraction in visual documents with prototypical networks.">}}
 
-## Open source
+#### VityBot
+{{<project-desc image_url="https://github.com/GDGVIT/vityBot/raw/master/attend_demo.png" github="https://github.com/GDGVIT/vityBot" desc="A personal assistant for students in VIT university based on NLP to improve productivity.">}}
+
+#### UnSting
+{{<project-desc image_url="https://github.com/samyak-jain/angelhack/raw/master/Images/detect.gif" github="https://github.com/samyak-jain/angelhack" desc="Disaster recovery and management platform based on autonomous drones powered by Computer Vision and WebRTC.">}}
+
+#### MediKit
+{{<project-desc image_url="https://github.com/apuayush/sm_medikit/raw/master/phones2.PNG" github="https://github.com/apuayush/sm_medikit" desc="A data-centric smart healthcare system to improve service, improve doctor-patient relationships, and support diagnostic decisions powered by Iot and ML.">}}
+
+#### Subconn
+{{<project-desc image_url="https://github.com/SuryaThiru/subconn/raw/master/Round%201/Wireframe/cart1.jpeg" github="https://github.com/SuryaThiru/subconn" desc="An application to track subsidized product transactions using distributed ledgers, hence improving efficiency and transparency in the distribution of goods and services through various Govt. schemes.">}}
+
+#### Face-Recognition based Security System
+{{<project-desc image_url="https://github.com/SuryaThiru/IoT-faceRec-security-system/raw/master/tele.png" github="https://github.com/SuryaThiru/IoT-faceRec-security-system" desc="Face recognition security system powered by IoT and ML via Telegram messenger and Raspberry Pi.">}}
+
+#### Intrusion Detection System
+{{<project-desc image_url="https://github.com/SuryaThiru/Intrusion-detection-system/raw/master/reports/report.png" github="https://github.com/SuryaThiru/Intrusion-detection-system" desc="Intrusion Detection System based on Machine Learning.">}}
+
+#### WiFi Rover
+{{<project-desc image_url="https://github.com/SuryaThiru/ISC-bot/blob/master/imgs/astroby(2).jpg?raw=true" github="https://github.com/SuryaThiru/ISC-bot" desc="WiFi controlled Robot to traverse rugged terrains controlled with a gamepad. Uses mjpeg streaming to produce video feed. Backend written in python Tornado. Powered by Raspberry Pi">}}
+
+#### Pneumonia Detection
+{{<project-desc image_url="https://github.com/SuryaThiru/Pneumonia-detection/raw/master/arch.png" github="https://github.com/SuryaThiru/Pneumonia-detection" desc="Image enhancement and feature extraction for pneumonia detection.">}}
+
+#### Neural Style Transfer
+{{<project-desc image_url="https://github.com/SuryaThiru/Neural-style-transfer/raw/master/img/sample.jpg" github="https://github.com/SuryaThiru/Neural-style-transfer" desc="Neural Style Transfer paper implementation in Keras.">}}
+
+## Open Source
 
 Some of my minor open source contributions:
 

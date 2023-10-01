@@ -1,0 +1,52 @@
+{{ $image_url := .Get "image_url" }}
+{{ $desc := .Get "desc" | markdownify }}
+{{ $github := .Get "github" }}
+
+<style>
+  .project-desc {
+    display: flex;
+    align-items: center;
+  }
+
+  .image-preview {
+    flex: 1;
+    margin-right: 5%; /* Adjust as needed */
+  }
+
+  .image-preview img {
+    max-width: 100%;
+    max-height: 200px;
+    object-fit: contain;
+  }
+
+  .project-description {
+    flex: 2;
+  }
+
+  .github-repo a {
+      color: #171515 !important;
+  }
+
+</style>
+
+<div class="project-desc">
+  <div class="image-preview">
+    <img src="{{ $image_url }}" alt="Image Preview">
+  </div>
+  <div class="project-description">
+    <p>
+      {{ $desc }}
+    </p>
+    <div class="github-repo">
+        <a href="{{ $github }}">
+            <i class="fab   fa-fab    fa-github    fa-1x    ">
+            <link href="/fontawesome/css/all.min.css" rel="stylesheet">
+            </i>
+            GitHub
+        </a>
+    </div>
+    <!-- {{ $github }} -->
+  </div>
+</div>
+
+
