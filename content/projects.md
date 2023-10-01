@@ -24,7 +24,7 @@ Int. J. Recent Technol. Eng., vol. 7, no. 6, pp. 1712–1715, 2019.  [[paper](ht
 
 #### Some favorite projects of mine
 
-* [ProtoIE](https://github.com/SuryaThiru/vdu_experiments) - Few-shot learning for information extraction in visual documents with prototypical networks
+* [ProtoIE](https://github.com/SuryaThiru/ProtoIE) - Few-shot learning for information extraction in visual documents with prototypical networks
 * [vityBot](https://github.com/GDGVIT/vityBot) – A personal assistant for students in VIT university based on NLP to improve productivity
 * [NST](https://github.com/SuryaThiru/Neural-style-transfer) - Neural Style Transfer implementation in keras
 * [unSting](https://github.com/samyak-jain/angelhack) – disaster recovery and management platform based on autonomous drones powered by computer vision and RTC
