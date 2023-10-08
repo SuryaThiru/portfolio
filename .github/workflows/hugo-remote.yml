@@ -26,4 +26,4 @@ jobs:
       - name: 🚀 Build and deploy
         env:
           HUGO_ARGS: '--minify --cleanDestinationDir'
-        uses: PepoBJ/hugo-remote@master
+        uses: SuryaThiru/hugo-remote@sudo-fix
