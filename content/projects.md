@@ -27,6 +27,10 @@ desc="ML benchmarking library based on [PMLB](https://github.com/EpistasisLab/pm
 
 ### Some Favorite Projects
 
+#### ResearchLens
+
+{{<project-desc image_url="https://github.com/SuryaThiru/ResearchLens/raw/main/experiments/screenshot.png" github="https://github.com/SuryaThiru/ResearchLens" desc="ResearchLens is an AI paper-reading assistant that helps understand complex academic papers by combining powerful LLMs with reference management and math explanation.">}}
+
 #### ProtoIE
 {{<project-desc image_url="https://raw.githubusercontent.com/oscarknagg/few-shot/master/assets/proto_nets_diagram.png" github="https://github.com/SuryaThiru/ProtoIE" desc="Few-shot learning for information extraction in visual documents with prototypical networks.">}}
 

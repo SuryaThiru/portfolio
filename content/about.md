@@ -26,8 +26,13 @@ Vellore, June 2016 - May 2020
 
 ## Experience
 
+### GenAI Data Scientist
+**CVS Health**, Boston, June 2024 - Current
+
+Building LLM-powered interfaces for large-scale document databases.
+
 ### Graduate Research Assistant
-**Northeastern University**, Boston, December 2022 - Current
+**SuppyTrace, Northeastern University**, Boston, December 2022 - June 2024
 
 Assisting Dr. Shawn Bhimani in the supply chain datahub project with identifying forced labour in supply chain data
 
