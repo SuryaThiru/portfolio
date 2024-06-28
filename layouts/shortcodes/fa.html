@@ -6,7 +6,7 @@
 
 
 <a href="{{delimit (last 1 .Params) ""}}">
-<i class="{{ $faStylePrefix }} {{ range $iconName := .Params }} {{with not (or (hasPrefix $iconName "http") (hasPrefix $iconName "mailto")) }} fa-{{ $iconName }} {{ end }} {{ end }}" style="color:#222;">
+<i class="{{ $faStylePrefix }} {{ range $iconName := .Params }} {{with not (or (hasPrefix $iconName "http") (hasPrefix $iconName "mailto")) }} fa-{{ $iconName }} {{ end }} {{ end }}" style="color:#222;margin:5px;">
   <!-- Load font awesome only once per page, load it inside the <i> element
     so it does not disturb the text flow (like removing spaces) -->
   {{ if not (.Page.Scratch.Get "fontawesomeLoaded") }}
