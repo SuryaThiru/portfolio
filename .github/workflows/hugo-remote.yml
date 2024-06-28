@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - fix-index
 
 env:
   REMOTE: SuryaThiru/SuryaThiru.github.io.git
@@ -25,4 +26,4 @@ jobs:
       - name: 🚀 Build and deploy
         env:
           HUGO_ARGS: '--minify --cleanDestinationDir'
-        uses: SuryaThiru/hugo-remote@sudo-fix
+        uses: victoriadrake/hugo-remote@master

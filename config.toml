@@ -12,6 +12,10 @@ math = false  # enable KaTeX (https://katex.org/) globally
   [params.footer]
     text = "Built with a theme by Olivier Roques"
     url = "https://github.com/ojroques/hugo-researcher"
+  [params.style]
+    fontSize = "13pt"
+    avatarSize = "100px"
+    pageWidth = "900px"
 
 [permalinks]
   "/" = "/:filename"
@@ -19,7 +23,7 @@ math = false  # enable KaTeX (https://katex.org/) globally
 [menu]
   [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/"
     weight = 1
   [[menu.main]]
     name = "Projects"
