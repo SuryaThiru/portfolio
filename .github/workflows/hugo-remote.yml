@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - fix-index
 
 env:
   REMOTE: SuryaThiru/SuryaThiru.github.io.git
